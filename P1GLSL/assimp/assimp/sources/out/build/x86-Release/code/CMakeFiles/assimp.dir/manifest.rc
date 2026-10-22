@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+2 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/Users/Pablo/Desktop/P1/Visual2019/Assimp/Sources/out/build/x86-Release/code/CMakeFiles/assimp.dir/embed.manifest"

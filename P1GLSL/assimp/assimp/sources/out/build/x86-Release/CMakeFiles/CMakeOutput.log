@@ -1,0 +1,119 @@
+The system is: Windows - 10.0.19041 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.27.29110/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Compilador de optimización de C/C++ de Microsoft (R) versión 19.27.29112 para x86
+(C) Microsoft Corporation. Todos los derechos reservados.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.27.29112.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/Users/Pablo/Desktop/P1/Visual2019/Assimp/Sources/out/build/x86-Release/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.27.29110/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Compilador de optimización de C/C++ de Microsoft (R) versión 19.27.29112 para x86
+(C) Microsoft Corporation. Todos los derechos reservados.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.27.29112.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/Users/Pablo/Desktop/P1/Visual2019/Assimp/Sources/out/build/x86-Release/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/Users/Pablo/Desktop/P1/Visual2019/Assimp/Sources/out/build/x86-Release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_17944 && [1/2] Building C object CMakeFiles\cmTC_17944.dir\testCCompiler.c.obj
+[2/2] Linking C executable cmTC_17944.exe
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/Users/Pablo/Desktop/P1/Visual2019/Assimp/Sources/out/build/x86-Release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_23ef2 && [1/2] Building C object CMakeFiles\cmTC_23ef2.dir\CMakeCCompilerABI.c.obj
+Nota: inclusión del archivo: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.17\Modules\CMakeCompilerABI.h
+[2/2] Linking C executable cmTC_23ef2.exe
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/Users/Pablo/Desktop/P1/Visual2019/Assimp/Sources/out/build/x86-Release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_ffcda && [1/2] Building CXX object CMakeFiles\cmTC_ffcda.dir\testCXXCompiler.cxx.obj
+[2/2] Linking CXX executable cmTC_ffcda.exe
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/Users/Pablo/Desktop/P1/Visual2019/Assimp/Sources/out/build/x86-Release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_9e839 && [1/2] Building CXX object CMakeFiles\cmTC_9e839.dir\CMakeCXXCompilerABI.cpp.obj
+Nota: inclusión del archivo: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.17\Modules\CMakeCompilerABI.h
+[2/2] Linking CXX executable cmTC_9e839.exe
+
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: D:/Users/Pablo/Desktop/P1/Visual2019/Assimp/Sources/out/build/x86-Release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_5a648 && [1/2] Building C object CMakeFiles\cmTC_5a648.dir\CheckIncludeFile.c.obj
+Nota: inclusión del archivo: C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+[2/2] Linking C executable cmTC_5a648.exe
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: D:/Users/Pablo/Desktop/P1/Visual2019/Assimp/Sources/out/build/x86-Release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_6b18b && [1/2] Building C object CMakeFiles\cmTC_6b18b.dir\CheckIncludeFile.c.obj
+Nota: inclusión del archivo: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\stdint.h
+Nota: inclusión del archivo:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h
+Nota: inclusión del archivo:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\sal.h
+Nota: inclusión del archivo:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\concurrencysal.h
+Nota: inclusión del archivo:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vadefs.h
+[2/2] Linking C executable cmTC_6b18b.exe
+
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: D:/Users/Pablo/Desktop/P1/Visual2019/Assimp/Sources/out/build/x86-Release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_67a94 && [1/2] Building C object CMakeFiles\cmTC_67a94.dir\CheckIncludeFile.c.obj
+Nota: inclusión del archivo: C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Nota: inclusión del archivo:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+Nota: inclusión del archivo:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h
+Nota: inclusión del archivo:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\sal.h
+Nota: inclusión del archivo:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\concurrencysal.h
+Nota: inclusión del archivo:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vadefs.h
+[2/2] Linking C executable cmTC_67a94.exe
+
+
+
