@@ -34,7 +34,10 @@
     <None Include="..\shaders_P1\shader.v0.vert" />
     <None Include="..\shaders_P1\shader.v1.frag" />
     <None Include="..\shaders_P1\shader.v1.vert" />
+    <None Include="..\shaders_P1\shader.v2.frag" />
+    <None Include="..\shaders_P1\shader.v2.vert" />
     <None Include="..\shaders_P1\shader.v3.frag" />
+    <None Include="..\shaders_P1\shader.v3.vert" />
     <None Include="..\shaders_P1\shader.v4.frag" />
     <None Include="..\shaders_P1\shader.v4.vert" />
     <None Include="..\shaders_P1\shader.v5.frag" />
@@ -121,7 +124,7 @@
     </ClCompile>
     <Link>
       <AdditionalDependencies>IGlibd.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <AdditionalLibraryDirectories>..\libs\lib\x84;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>..\libs\lib\x86;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <SubSystem>Console</SubSystem>
       <TargetMachine>MachineX86</TargetMachine>
@@ -141,7 +144,7 @@
     </ClCompile>
     <Link>
       <AdditionalDependencies>IGlibd.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <AdditionalLibraryDirectories>..\libs\lib\x84;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>..\libs\lib\x86;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <SubSystem>Console</SubSystem>
     </Link>
@@ -150,7 +153,7 @@
     <ClCompile>
       <Optimization>MaxSpeed</Optimization>
       <IntrinsicFunctions>true</IntrinsicFunctions>
-      <AdditionalIncludeDirectories>..\assimp\sources\out\build\x86-Release\include;..\assimp\include;..\libs\include\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\assimp\sources\out\build\x86-Release\include;..\assimp\include\;..\libs\include\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
       <FunctionLevelLinking>true</FunctionLevelLinking>
